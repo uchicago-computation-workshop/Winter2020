@@ -70,9 +70,9 @@ sources of boundary influence simulations.
 <h4 class=pfblock-header3> 11:00am-12:20pm </h4>
 <h4 class=pfblock-header3> Cummings Life Science Center, Room 101 </h4>
 
-<br>
+<!-- <br> -->
 
-<p class=pfblock-header3>A light lunch will be provided by TBD.</p>
+<!-- <p class=pfblock-header3>A light lunch will be provided by TBD.</p> -->
 
 <br><br>
 
