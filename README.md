@@ -6,7 +6,7 @@
 
 ### January 9th - [Moses Boudourides](https://github.com/uchicago-computation-workshop/Winter2020/tree/master/01-09_Boudourides)
 
-<div><img src="https://sonic.northwestern.edu/wp-content/uploads/2018/12/MosesBoudourides2018-768x1024.jpg" width="300" height="360"></div>
+<div><img src="https://sonic.northwestern.edu/wp-content/uploads/2018/12/MosesBoudourides2018-768x1024.jpg" width="200" height="240"></div>
 
 **Moses Boudourides** - Visiting Professor of Mathematics at New York University Abu Dhabi
 
@@ -27,7 +27,7 @@
 
 ### TBD - [Dashun Wang](https://github.com/uchicago-computation-workshop/Winter2020/tree/master/)
 
-<div><img src="https://images.squarespace-cdn.com/content/v1/5877ca6986e6c00f05f58f84/1492044622990-TX72G7LSEQIN1DROSPXT/ke17ZwdGBToddI8pDm48kMidd_fVERlblIIVuIb_11BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzc3KhiZEc2ArmSfbaTtWf9zmNXJ2KDrJzvE6EJhpeDqeyhj520k6oYXpa0d8KyfLk/dashing-wang.jpg?format=300w" width="300" height="360"></div>
+<div><img src="https://images.squarespace-cdn.com/content/v1/5877ca6986e6c00f05f58f84/1492044622990-TX72G7LSEQIN1DROSPXT/ke17ZwdGBToddI8pDm48kMidd_fVERlblIIVuIb_11BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzc3KhiZEc2ArmSfbaTtWf9zmNXJ2KDrJzvE6EJhpeDqeyhj520k6oYXpa0d8KyfLk/dashing-wang.jpg?format=300w" width="200" height="240"></div>
 
 
 **Dashun Wang** - Associate Professor of Management and Organizations at the Kellogg School of Management
