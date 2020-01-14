@@ -6,7 +6,7 @@
 
 ### January 9th - [Moses Boudourides](https://github.com/uchicago-computation-workshop/Winter2020/tree/master/01-09_Boudourides)
 
-<div><img src="https://sonic.northwestern.edu/wp-content/uploads/2018/12/MosesBoudourides2018-768x1024.jpg" width="200" height="240"></div>
+<div><img src="https://sonic.northwestern.edu/wp-content/uploads/2018/12/MosesBoudourides2018-768x1024.jpg" width="200" height="267"></div>
 
 **Moses Boudourides** - Visiting Professor of Mathematics at New York University Abu Dhabi
 
@@ -47,7 +47,7 @@
 
 ### February 6th - [Andrei Boutyline](https://github.com/uchicago-computation-workshop/Winter2020/tree/master/)
 
-<div><img src="https://lsa.umich.edu/content/michigan-lsa/soc/en/people/faculty/andrei-boutyline/jcr:content/profileImage.transform/profile_portrait/image.1578952216373.jpg" width="200" height="240"></div>
+<div><img src="https://lsa.umich.edu/content/michigan-lsa/soc/en/people/faculty/andrei-boutyline/jcr:content/profileImage.transform/profile_portrait/image.1578952216373.jpg" width="200" height="300"></div>
 
 
 **Andrei Boutyline** - Assistant Professor of Sociology at the University of Michigan
