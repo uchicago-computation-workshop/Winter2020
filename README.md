@@ -15,7 +15,7 @@
 
 
 
-### TBD - [Paolo Parigi](https://github.com/uchicago-computation-workshop/Winter2020/tree/master/)
+### January 16th - [Paolo Parigi](https://github.com/uchicago-computation-workshop/Winter2020/tree/master/)
 
 <div><img src="https://media.licdn.com/dms/image/C4E03AQG5sGE-ZKgJvA/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=CmHeURi6WEfD74EKB4K4BsRWaUnxWZi-l3PsDOxJUx4" width="200" height="200"></div>
 
@@ -25,7 +25,7 @@
 <br>
 
 
-### TBD - [Dashun Wang](https://github.com/uchicago-computation-workshop/Winter2020/tree/master/)
+### January 23rd - [Dashun Wang](https://github.com/uchicago-computation-workshop/Winter2020/tree/master/)
 
 <div><img src="https://images.squarespace-cdn.com/content/v1/5877ca6986e6c00f05f58f84/1492044622990-TX72G7LSEQIN1DROSPXT/ke17ZwdGBToddI8pDm48kMidd_fVERlblIIVuIb_11BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzc3KhiZEc2ArmSfbaTtWf9zmNXJ2KDrJzvE6EJhpeDqeyhj520k6oYXpa0d8KyfLk/dashing-wang.jpg?format=300w" width="200" height="240"></div>
 
@@ -41,5 +41,15 @@
 
 
 <!-- **Joshua Beck** -  -->
+
+<br>
+
+
+### February 6th - [Andrei Boutyline](https://github.com/uchicago-computation-workshop/Winter2020/tree/master/)
+
+<div><img src="https://lsa.umich.edu/content/michigan-lsa/soc/en/people/faculty/andrei-boutyline/jcr:content/profileImage.transform/profile_portrait/image.1578952216373.jpg" width="200" height="240"></div>
+
+
+**Andrei Boutyline** - Assistant Professor of Sociology at the University of Michigan
 
 <br>
