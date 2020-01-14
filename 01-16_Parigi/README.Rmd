@@ -1,0 +1,122 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(stringr)
+
+date <- "1/16/2020"
+
+quarter <- "Winter2020"
+date <- "01/16"
+week_folder <- "01-16_Parigi"
+
+
+vendor <- "TBD"
+title <- "Designing for Trust: A Behavioral Framework for Sharing Economy Platforms"
+
+
+speaker <- "Paolo Parigi"
+department <- "Lead Trust Scientist"
+university <- "Airbnb"
+github_home <- "https://github.com/uchicago-computation-workshop"
+
+#Update Weekly
+issues_url <- "https://github.com/uchicago-computation-workshop/Winter2020/issues/2"
+
+
+#Papers
+
+week_paper_ref0 <- "Anonymous Author(s). 2018. Designing for Trust: A Behavioral Framework for Sharing Economy Platforms' *The Web Conference ’20: The Web Conference,* April 20–24, 2020, Taipei, Taiwan. ACM, New York, NY, USA."
+week_paper_file0 <- ""
+
+
+
+#No Need to Edit
+week_repo <- paste0("https://github.com/uchicago-computation-workshop/",quarter,"/tree/master/",week_folder)
+
+readings0 <- paste0("[", week_paper_ref0,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file0,")")
+
+
+```
+
+
+
+<br>
+
+<h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
+
+<h1 class=pfblock-header3> `r speaker` </h1>
+<h3 class=pfblock-header3> `r department` </h3>
+<h3 class=pfblock-header3> `r university` </h3>
+
+<br><br>
+
+
+
+<p class=pfblock-header3>The <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> at the University of Chicago cordially invites you to attend this week's talk:</p>
+
+
+
+<br>
+
+<div class=pfblock-header3>
+<h2 class=pfblock-header>
+  <a href=`r week_repo`> `r title` </a>
+</h2>
+
+<br>
+</div>
+
+
+
+<p class=footertext2>
+
+**Summary:** TBD
+
+
+</p>
+
+<br>
+
+<h4 class=pfblock-header3> Thursday, `r date` </h4>
+<h4 class=pfblock-header3> 11:00am-12:20pm </h4>
+<h4 class=pfblock-header3> Cummings Life Science Center, Room 101 </h4>
+
+<!-- <br> -->
+
+<!-- <p class=pfblock-header3>A light lunch will be provided by `r vendor`.</p> -->
+
+<br><br>
+
+<p class=footertext2>
+
+**`r speaker`** is the Lead Trust Scientist at Airbnb and the Associate Director for Computational Social Science at IRiSS, Stanford University. Paolo uses computational techniques and methods to issues of exchange and trust in the “sharing economy”. His published work has appeared on PNAS, The American Journal of Sociology, PLoS 1 and several others academic journals.
+</p>
+
+
+<br>
+
+This week's suggested readings:
+
+- `r readings0`
+- *Note*: This reading was only sent to MACSS students and program faculty as an email attachment. Please do not share or distribute the file.
+
+
+<br>
+
+<br><br>
+
+---
+
+<p class=footertext> The 2019-2020 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 11 a.m. to 12:20 p.m. in the Cummings Life Science Center, Room 101. All interested faculty and graduate students are welcome.</p>
+
+
+
+
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=`r issues_url`>issues page</a> of the <a href=`r week_repo`>workshop's public repository on GitHub.</a></p>
