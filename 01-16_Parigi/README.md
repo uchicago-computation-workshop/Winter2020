@@ -78,10 +78,10 @@ design around trust in the short and long term.
 
 <p class=footertext2>
 
-**Paolo Parigi** is the Lead Trust Scientist at Airbnb and the Associate Director for Computational Social Science at IRiSS, Stanford University. Paolo uses computational techniques and methods to issues of exchange and trust in the “sharing economy”. His published work has appeared on PNAS, The American Journal of Sociology, PLoS 1 and several others academic journals.
+**Paolo Parigi** is the Lead Trust Scientist at Airbnb and the Associate Director for Computational Social Science at IRiSS, Stanford University. Paolo uses computational techniques and methods to issues of exchange and trust in the “sharing economy”. His published work has appeared on PNAS, The American Journal of Sociology, PLoS 1, and several other academic journals.
 </p>
 
-**Natã M. Barbosa** is a PhD candidate at University of Illinois at Urbana-Champaign's School of Information Sciences working on data-driven systems for privacy, security, and trust.
+**Natã M. Barbosa** is a PhD candidate at the University of Illinois at Urbana-Champaign's School of Information Sciences working on data-driven systems for privacy, security, and trust.
 
 
 <br>
