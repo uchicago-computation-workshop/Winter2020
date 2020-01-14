@@ -15,9 +15,9 @@ output:
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Paolo Parigi </h1>
-<h3 class=pfblock-header3> Lead Trust Scientist </h3>
-<h3 class=pfblock-header3> Airbnb </h3>
+<h1 class=pfblock-header3> Paolo Parigi and Natã Barbosa</h1>
+<h3 class=pfblock-header3> Lead Trust Scientist - Airbnb </h3>
+<h3 class=pfblock-header3> PhD Candidate - University of Illinois at Urbana-Champaign, School of Information Sciences </h3>
 
 <br><br>
 
@@ -41,7 +41,25 @@ output:
 
 <p class=footertext2>
 
-**Summary:** TBD
+**Summary:** Trust is a fundamental prerequisite in the growth and sustainability
+of sharing economy platforms. Many of such platforms rely on
+actions that require trust to take place, such as entering a stranger’s
+car or sleeping at a stranger’s place. For this reason, understanding,
+measuring, and tracking trust can be of great benefit to such platforms,
+enabling them to identify trust behaviors, both online and
+offline, and identify groups which may benefit from trust-building
+interventions. In this work, we present the design and evaluation
+of a behavioral framework to measure a user’s propensity to trust
+others on Airbnb. We conducted an online experiment with 4,499
+Airbnb users in the form of an investment game in order to capture
+users’ propensity to trust other users on Airbnb. Then, we used the
+experimental data to generate both explanatory and predictive models
+of trust propensity. Our contribution is a framework that can
+be used to measure trust propensity in sharing economy platforms
+via online and offline signals. We discuss which affordances need
+to be in place so that sharing economy platforms can get signals of
+trust, in addition to how such a framework can be used to inform
+design around trust in the short and long term.
 
 
 </p>
@@ -63,13 +81,15 @@ output:
 **Paolo Parigi** is the Lead Trust Scientist at Airbnb and the Associate Director for Computational Social Science at IRiSS, Stanford University. Paolo uses computational techniques and methods to issues of exchange and trust in the “sharing economy”. His published work has appeared on PNAS, The American Journal of Sociology, PLoS 1 and several others academic journals.
 </p>
 
+**Natã M. Barbosa** is a PhD candidate at University of Illinois at Urbana-Champaign's School of Information Sciences working on data-driven systems for privacy, security, and trust.
+
 
 <br>
 
 This week's suggested readings:
 
-- [Anonymous Author(s). 2018. Designing for Trust: A Behavioral Framework for Sharing Economy Platforms' *The Web Conference ’20: The Web Conference,* April 20–24, 2020, Taipei, Taiwan. ACM, New York, NY, USA.](https://github.com/uchicago-computation-workshop/Winter2020/blob/master/01-16_Parigi/)
-- *Note*: This reading was only sent to MACSS students and program faculty as an email attachment. Please do not share or distribute the file.
+- [Nata Barbosa, Emily Sun, Judd Antin, and Paolo Parigi 2018. 'Designing for Trust: A Behavioral Framework for Sharing Economy Platforms'](https://github.com/uchicago-computation-workshop/Winter2020/blob/master/01-16_Parigi/)
+- **Note**: This reading was privately sent to MACSS students and faculty. Please do not share or distribute the file.
 
 
 <br>
