@@ -35,12 +35,12 @@
 <br>
 
 
-### TBD - [Joshua Beck](https://github.com/uchicago-computation-workshop/Winter2020/tree/master/)
+### January 30th - [Joshua Becker](https://github.com/uchicago-computation-workshop/Winter2020/tree/master/)
 
-<div><img src="https://avatars3.githubusercontent.com/u/32048906?s=200&v=4" width="200" height="200"></div>
+<div><img src="https://www.kellogg.northwestern.edu/-/media/images/faculty/headshot/ay19-20/joshua_becker_250x304.ashx?" width="200" height="243"></div>
 
 
-<!-- **Joshua Beck** -  -->
+**Joshua Becker** - Postdoctoral Fellow, Kellogg School of Management, Northwestern Institute on Complex Systems
 
 <br>
 
