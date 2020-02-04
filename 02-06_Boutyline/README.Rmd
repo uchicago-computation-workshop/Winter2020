@@ -10,11 +10,11 @@ output:
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 library(stringr)
 
-date <- "2/03/2020"
+date <- "2/06/2020"
 
 quarter <- "Winter2020"
-date <- "02/03"
-week_folder <- "02-03_Becker"
+date <- "02/06"
+week_folder <- "02-06_Becker"
 
 
 vendor <- "TBD"

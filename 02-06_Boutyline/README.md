@@ -31,7 +31,7 @@ output:
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Winter2020/tree/master/02-03_Becker> School, Studying, and Smarts: The Gender of Education Across 80 Years of American Print Media, 1930-2009 </a>
+  <a href=https://github.com/uchicago-computation-workshop/Winter2020/tree/master/02-06_Becker> School, Studying, and Smarts: The Gender of Education Across 80 Years of American Print Media, 1930-2009 </a>
 </h2>
 
 <br>
@@ -48,7 +48,7 @@ output:
 
 <br>
 
-<h4 class=pfblock-header3> Thursday, 02/03 </h4>
+<h4 class=pfblock-header3> Thursday, 02/06 </h4>
 <h4 class=pfblock-header3> 11:00am-12:20pm </h4>
 <h4 class=pfblock-header3> Cummings Life Science Center, Room 101 </h4>
 
@@ -68,7 +68,7 @@ output:
 
 This week's suggested readings:
 
-- [Boutyline, Andrei, Alina Arseniev-Koehler, and Devin J. Cornell. 2020. "School, Studying, and Smarts: The Gender of Education Across 80 Years of American Print Media, 1930-2009," Working Paper, January 29, 2020.](https://github.com/uchicago-computation-workshop/Winter2020/blob/master/02-03_Becker/)
+- [Boutyline, Andrei, Alina Arseniev-Koehler, and Devin J. Cornell. 2020. "School, Studying, and Smarts: The Gender of Education Across 80 Years of American Print Media, 1930-2009," Working Paper, January 29, 2020.](https://github.com/uchicago-computation-workshop/Winter2020/blob/master/02-06_Becker/)
 - **Note**: This reading was privately sent to MACSS students and faculty. Please do not share or distribute the file.
 
 <br><br>
@@ -80,4 +80,4 @@ This week's suggested readings:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Winter2020/issues/5>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Winter2020/tree/master/02-03_Becker>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Winter2020/issues/5>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Winter2020/tree/master/02-06_Becker>workshop's public repository on GitHub.</a></p>
