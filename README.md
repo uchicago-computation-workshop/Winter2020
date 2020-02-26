@@ -53,3 +53,33 @@
 **Andrei Boutyline** - Assistant Professor of Sociology at the University of Michigan
 
 <br>
+
+
+### February 13th - [No workshop this week]()
+
+<br>
+
+### February 20th - [No workshop this week]()
+
+<br>
+
+
+### February 27th - [Diogo Ferrari](https://github.com/uchicago-computation-workshop/Winter2020/tree/master/02-27_Ferrari)
+
+<div><img src="https://macss.uchicago.edu/sites/macss.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/Screen%20Shot%202019-08-05%20at%202.54.12%20PM.png?" width="200" height="200"></div>
+
+
+**Diogo Ferrari** - Assistant Instructional Professor in Computational Social Science at the University of Chicago
+
+<br>
+
+
+### March 6th - [Hyejin Youn](https://github.com/uchicago-computation-workshop/Winter2020/tree/master/03-06_Youn)
+
+<div><img src="https://www.kellogg.northwestern.edu/-/media/images/faculty/headshot/2018/youn-hyejin.ashx?" width="200" height="238"></div>
+
+***Note:*** Special Time and Location: Friday, March 6th, 11:00am - 12:20pm, 1155 E 60TH ST, Room 289A.
+
+**Hyejin Youn** - Assistant Professor, Management & Organizations at the Northwestern University
+
+<br>
