@@ -47,7 +47,7 @@
 
 ### February 6th - [Andrei Boutyline](https://github.com/uchicago-computation-workshop/Winter2020/tree/master/02-06_Boutyline)
 
-<div><img src="https://lsa.umich.edu/content/michigan-lsa/soc/en/people/faculty/andrei-boutyline/jcr:content/profileImage.transform/profile_portrait/image.1578952216373.jpg" width="200" height="300"></div>
+<div><img src="https://lsa.umich.edu/content/michigan-lsa/soc/en/people/faculty/aboutyl/jcr:content/profileImage.transform/profile_portrait/image.1582687960918.jpg" width="200" height="300"></div>
 
 
 **Andrei Boutyline** - Assistant Professor of Sociology at the University of Michigan
@@ -66,7 +66,7 @@
 
 ### February 27th - [Diogo Ferrari](https://github.com/uchicago-computation-workshop/Winter2020/tree/master/02-27_Ferrari)
 
-<div><img src="https://macss.uchicago.edu/sites/macss.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/Screen%20Shot%202019-08-05%20at%202.54.12%20PM.png?" width="200" height="200"></div>
+<div><img src="https://macss.uchicago.edu/sites/macss.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/Screen%20Shot%202019-08-05%20at%202.54.12%20PM.png?" width="200" height="184"></div>
 
 
 **Diogo Ferrari** - Assistant Instructional Professor in Computational Social Science at the University of Chicago
