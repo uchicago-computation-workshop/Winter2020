@@ -78,7 +78,7 @@
 
 <div><img src="https://www.kellogg.northwestern.edu/-/media/images/faculty/headshot/2018/youn-hyejin.ashx?" width="200" height="238"></div>
 
-***Note:*** Special Time and Location: Friday, March 6th, 11:00am - 12:20pm, 1155 E 60TH ST, Room 289A.
+***Special Time and Location:*** Friday, March 6th, 11:00am - 12:20pm, 1155 E 60TH ST, Room 289A.
 
 **Hyejin Youn** - Assistant Professor, Management & Organizations at the Northwestern University
 
