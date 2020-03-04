@@ -54,7 +54,7 @@ output:
 
 <!-- <br> -->
 
-<p class=pfblock-header3>A light reception will be provided by Northern Taste follow the talk. The reception will be held in the new MACSS lounge, 1155 E 60TH ST, Room 224.</p>
+<p class=pfblock-header3>A light reception will be provided by Northern Taste following the talk. The reception will be held in the new MACSS lounge, 1155 E 60TH ST, Room 224.</p>
 
 <br><br>
 
