@@ -18,7 +18,7 @@ week_folder <- "03-06_Youn"
 
 
 vendor <- "Northern Taste"
-title <- "TBD"
+title <- "How exploitation and exploration shape the knowledge space"
 
 
 speaker <- "Hyejin Youn"
@@ -32,8 +32,8 @@ issues_url <- "https://github.com/uchicago-computation-workshop/Winter2020/issue
 
 #Papers
 
-week_paper_ref0 <- ''
-week_paper_file0 <- ""
+week_paper_ref0 <- 'Van Der Wouden, Frank and Hyejin Youn. 2020. "Impact of geographical distance on acquiring know-how through scientific collaboration." Working Paper.'
+week_paper_file0 <- "youn_know-how.pdf"
 
 
 week_paper_ref1 <- ''
@@ -81,20 +81,20 @@ readings1 <- paste0("[", week_paper_ref1,"](https://github.com/uchicago-computat
 
 <p class=footertext2>
 
-**Summary:** 
+**Summary:** Innovations have been achieved by combining existing knowledge with novel additions. The combinatorial nature of innovation is mainly governed by exploitation and exploration, behaviors that reuse known combinations and discover new possibilities. The trade-off between them, a well-known dilemma that innovators face, is not only affected by, but also change knowledge space where innovations occur. To investigate how the trade-off contributes to knowledge space, we present a network model that sub-linearly grows by following Heaps' law and creates links with adjacent possibles, and compare model networks to empirical knowledge spaces constructed from patents and research papers. With the balanced trade-off, the model reproduces structural properties found across empirical knowledge spaces, including broad strength distribution, significant local clustering, and especially modular structure that is often considered taken for granted. If either exploitation or exploration dominates the trade-off, these structures could not be obtained. Interestingly, the empirical spaces appear to evolve with the balanced trade-off, suggesting collective behaviors that balance exploitation and exploration naturally shape knowledge modules. Our network model not only explains why modular structure exists within knowledge spaces but also provides insights into the co-evolution of microscopic behaviors and modular structure.
 
 
 </p>
 
 <br>
 
-<h4 class=pfblock-header3> Thursday, `r date` </h4>
+<h4 class=pfblock-header3> Friday, `r date` </h4>
 <h4 class=pfblock-header3> 11:00am-12:20pm </h4>
-<h4 class=pfblock-header3> Cummings Life Science Center, Room 101 </h4>
+<h4 class=pfblock-header3> 1155 E 60TH ST, Room 289A </h4>
 
 <!-- <br> -->
 
-<p class=pfblock-header3>A light reception will be provided by `r vendor` in a reception to follow the talk.</p>
+<p class=pfblock-header3>A light reception will be provided by `r vendor` follow the talk. The reception will be held in the new MACSS lounge, 1155 E 60TH ST, Room 224.</p>
 
 <br><br>
 
@@ -111,7 +111,6 @@ Her research interests are to understand the interplay between technological inn
 This week's suggested readings:
 
 - `r readings0`
-- `r readings1`
 
 <br>
 
